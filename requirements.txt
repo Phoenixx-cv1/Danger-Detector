@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pyttsx3
+ultralytics
+python-dotenv
+twilio
+requests
